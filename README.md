@@ -4,7 +4,7 @@ ERC20 token on solidity
 contract address
 https://etherscan.io/token/0xd0d1042e45596f1d4ad52be8b20a4ca496742a0c
 
-## official site 
+## Official site 
 https://dicksize.org
 
 ## Intro
@@ -14,5 +14,5 @@ The man of the biggest dick can leave a message to the entire community and immo
 
 Funds received will be used to popularize the token. A Part of the inches will be provided to exchanges for the distribution of the token.
 
-## Whitepaper
+## WhitePaper
 https://dicksize.org/doc/whitepaper.pdf
