@@ -4,6 +4,9 @@ ERC20 token on solidity
 contract address
 https://etherscan.io/token/0xd0d1042e45596f1d4ad52be8b20a4ca496742a0c
 
+donate address:
+0xEF68Faa52c64C16a4C3f200313711bFC1C4810be
+
 ## Official site 
 https://dicksize.org
 
